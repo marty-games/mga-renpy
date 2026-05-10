@@ -1,0 +1,1529 @@
+[act_2]
+id = "3462751114"
+name = "act_2"
+display_name = "Reached Act 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[agree_yuri]
+id = "4214303087"
+name = "agree_yuri"
+display_name = "Side with Yuri"
+show_notification = "false"
+ignore_in_completion = "false"
+trigger_progressed = "false"
+persistance = "never"
+type = "normal"
+
+[all_poems_natsuki]
+id = "2217467263"
+name = "all_poems_natsuki"
+display_name = "Dear Natsuki"
+show_notification = "false"
+ignore_in_completion = "false"
+trigger_progressed = "false"
+persistance = "playthrough"
+type = "normal"
+
+[all_poems_sayori]
+id = "1573187045"
+name = "all_poems_sayori"
+display_name = "Dear Sayori"
+show_notification = "false"
+ignore_in_completion = "false"
+trigger_progressed = "false"
+persistance = "playthrough"
+type = "normal"
+
+[all_poems_yuri]
+id = "3862821335"
+name = "all_poems_yuri"
+display_name = "Dear Yuri"
+show_notification = "false"
+ignore_in_completion = "false"
+trigger_progressed = "false"
+persistance = "playthrough"
+type = "normal"
+
+[amy_likes_spiders]
+id = "1876851544"
+name = "amy_likes_spiders"
+display_name = "Natsuki - Amy Likes Spiders"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[ask_sayori]
+id = "1907430362"
+name = "ask_sayori"
+display_name = "Help me Sayori"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[ax_monika]
+id = "2174652468"
+name = "ax_monika"
+display_name = "Monika's Extra Poem"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[ax_natsuki]
+id = "2924796164"
+name = "ax_natsuki"
+display_name = "Natsuki's Extra Poem"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[ax_sayori]
+id = "2794730424"
+name = "ax_sayori"
+display_name = "Sayori's Extra Poem"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[ax_yuri]
+id = "2897481066"
+name = "ax_yuri"
+display_name = "Yuri's Extra Poem"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[beach]
+id = "4105357384"
+name = "beach"
+display_name = "Yuri - Beach"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[because_you]
+id = "1252321327"
+name = "because_you"
+display_name = "Natsuki - Because You"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[become_the_flower]
+id = "682969058"
+name = "become_the_flower"
+display_name = "Become the Flower"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[bgm_daijoubu]
+id = "1367496327"
+display_name = "Daijoubu!"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_dusk]
+id = "2787915491"
+display_name = "Dusk"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_hugenergy]
+id = "3495209586"
+display_name = "Hug Energy"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_istillloveyou]
+id = "3975593200"
+display_name = "I Still Love You"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_justalittlebit]
+id = "2828920242"
+display_name = "Just a Little Bit"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_justmonika]
+id = "743927533"
+display_name = "Just Monika."
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_lavendermist]
+id = "1951224588"
+display_name = "Lavender Mist"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_letsteamwork]
+id = "4167376660"
+display_name = "Let's Teamwork!"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_myconfession]
+id = "274139431"
+display_name = "My Confession"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_myfeelings]
+id = "19551865"
+display_name = "My Feelings"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_mysongyournote]
+id = "923206886"
+display_name = "My Song, Your Note"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_mysongyournotepiano]
+id = "3154030255"
+display_name = "My Song, Your Note (Piano)"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_okayeveryone]
+id = "546343283"
+display_name = "Okay, Everyone!"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_peachypie]
+id = "1884530388"
+display_name = "Peachy Pie"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_piecebypiece]
+id = "1696651161"
+display_name = "Piece by Piece"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_playwithme]
+id = "195916642"
+display_name = "Play With Me"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_poempanic]
+id = "1244291228"
+display_name = "Poem Panic!"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_sayonara]
+id = "1610925366"
+display_name = "Sayo-nara"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bgm_sofal]
+id = "3004861475"
+display_name = "Stories of Friendship and Literature"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_strawberrypeppermint]
+id = "1260464563"
+display_name = "Strawberry Peppermint"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[bgm_yourreality]
+id = "3720301187"
+display_name = "Your Reality"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[bg_bedroom]
+id = "1477276793"
+name = "bg_bedroom"
+display_name = "Bedroom"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_class1]
+id = "3257361108"
+name = "bg_class1"
+display_name = "Classroom"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_class2]
+id = "3307693965"
+name = "bg_class2"
+display_name = "Clubroom"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_class3]
+id = "3290916346"
+name = "bg_class3"
+display_name = "Morning Classroom BG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_closet]
+id = "1759050863"
+name = "bg_closet"
+display_name = "Closet"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_corridor]
+id = "30180285"
+name = "bg_corridor"
+display_name = "School Corridor"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_kitchen]
+id = "1953581285"
+name = "bg_kitchen"
+display_name = "Kitchen"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_music]
+id = "648002630"
+name = "bg_music"
+display_name = "Musicroom BG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_poem]
+id = "1252372352"
+name = "bg_poem"
+display_name = "Poem Background"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_residential]
+id = "186587955"
+name = "bg_residential"
+display_name = "Residential Area"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_sbedroom]
+id = "396346760"
+name = "bg_sbedroom"
+display_name = "Sayori's Bedroom"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bg_stairwell]
+id = "1930339160"
+name = "bg_stairwell"
+display_name = "Stairwell BG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[bottles]
+id = "2538759822"
+name = "bottles"
+display_name = "Sayori - Bottles"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[candy_heartz]
+id = "2737424561"
+name = "candy_heartz"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[candy_heartz_first]
+id = "2285042896"
+name = "candy_heartz_first"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[ch0_kill_scene]
+id = "3401133016"
+name = "ch0_kill_scene"
+display_name = "Early End"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[change_wallpaper]
+id = "1082705240"
+name = "change_wallpaper"
+display_name = "Error"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[dan_message]
+id = "2651756116"
+name = "dan_message"
+display_name = "Dan's Message"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[dark_poem]
+id = "2855750921"
+name = "dark_poem"
+display_name = "Heavy prose"
+show_notification = "false"
+ignore_in_completion = "false"
+trigger_progressed = "false"
+persistance = "never"
+type = "poetry_word_list"
+
+[dear_sunshine]
+id = "3763869459"
+name = "dear_sunshine"
+display_name = "Sayori - Dear Sunshine"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[dont_quit]
+id = "2858917836"
+name = "dont_quit"
+display_name = "No"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[draw_boxes]
+id = "595150801"
+name = "draw_boxes"
+display_name = "Good feature"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[eagles_can_fly]
+id = "1472681603"
+name = "eagles_can_fly"
+display_name = "Natsuki - Eagles Can Fly"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[email3_read]
+id = "1370445913"
+name = "email3_read"
+display_name = "Character Discrepancy"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[email_1]
+id = "3079145083"
+name = "email_1"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[email_2]
+id = "3095922702"
+name = "email_2"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[email_3]
+id = "3112700321"
+name = "email_3"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[email_4]
+id = "3129477940"
+name = "email_4"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[email_5]
+id = "3146255559"
+name = "email_5"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[email_6]
+id = "3163033178"
+name = "email_6"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[email_7]
+id = "3179810797"
+name = "email_7"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[email_8]
+id = "2928146512"
+name = "email_8"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[email_9]
+id = "2944924131"
+name = "email_9"
+display_name = "Email"
+show_notification = "true"
+trigger_progressed = "false"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[epilogue]
+id = "4229850669"
+name = "epilogue"
+display_name = "Epilogue"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[epilogue_cg]
+id = "3070616504"
+name = "epilogue_cg"
+display_name = "Epilogue CG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[final_message]
+id = "1002469327"
+name = "final_message"
+display_name = "Final Message"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[game_complete]
+id = "2364778287"
+name = "game_complete"
+display_name = "Game Complete"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[ghost_under_the_light]
+id = "3398092226"
+name = "ghost_under_the_light"
+display_name = "Yuri - Ghost Under The Light"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[ghost_under_the_light_2]
+id = "4233216783"
+name = "ghost_under_the_light_2"
+display_name = "Yuri - Ghost Under The Light pt.2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[happy_end]
+id = "4036719159"
+name = "happy_end"
+display_name = "Monika - Happy End"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[hole_in_wall]
+id = "2877390064"
+name = "hole_in_wall"
+display_name = "Monika - Hole in Wall"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[hole_in_wall_2]
+id = "3538239837"
+name = "hole_in_wall_2"
+display_name = "Monika - Hole in Wall pt. 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[ill_be_your_beach]
+id = "3786085010"
+name = "ill_be_your_beach"
+display_name = "Natsuki - I'll Be Your Beach"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[killed_everyone]
+id = "2387534336"
+name = "killed_everyone"
+display_name = "Kill Everyone"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[mixtape]
+id = "1688134033"
+name = "mixtape"
+display_name = "Buy My Mixtape"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[monika_exclusive]
+id = "2319464795"
+name = "monika_exclusive"
+display_name = "Monika Exclusive"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[monika_quick_delete]
+id = "961996958"
+name = "monika_quick_delete"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[monika_topics_15]
+id = "1972829240"
+name = "monika_topics_15"
+display_name = "15 Monika Topics"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[natsuki_bad_end]
+id = "2743115698"
+name = "natsuki_bad_end"
+display_name = "Natsuki Bad End"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[natsuki_exclusive1]
+id = "3050431590"
+name = "natsuki_exclusive1"
+display_name = "Natsuki Exclusive 1"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[natsuki_exclusive2]
+id = "3033653971"
+name = "natsuki_exclusive2"
+display_name = "Natsuki Exclusive 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[natsuki_weekend]
+id = "1405475338"
+name = "natsuki_weekend"
+display_name = "Natsuki Weekend"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[nm_exclusive]
+id = "802823911"
+display_name = "Natsuki + Monika CG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+name = ""
+
+[nm_part2]
+id = "3339561550"
+display_name = "Respect 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[ny_exclusive]
+id = "679442459"
+name = "ny_exclusive"
+display_name = "Natsuki + Yuri CG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[ny_part2]
+id = "4182315922"
+name = "ny_part2"
+display_name = "Self-Love 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[perfect_poem_monika]
+id = "1844138184"
+display_name = "Perfect! Monika"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[perfect_poem_natsuki]
+id = "3903737088"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[perfect_poem_sayori]
+id = "2000861516"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[perfect_poem_yuri]
+id = "3291199742"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[poemword_file_open]
+id = "1840892922"
+name = "poemword_file_open"
+display_name = "poemwords.txt"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[poem_each_char]
+id = "1920005095"
+display_name = "Poem for each Character"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[poem_glitch]
+id = "2341041918"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[poem_word_anime]
+id = "881288056"
+display_name = "Poem Word - Anime"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "poetry_word"
+name = "word"
+
+[poem_word_dokidoki]
+id = "3976858556"
+display_name = "Doki Doki!!!"
+show_notification = "false"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "poetry_word"
+name = "word"
+
+[poem_word_horror]
+id = "435418268"
+display_name = "Poem Word - Horror"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "poetry_word"
+name = "word"
+
+[poem_word_kawaii]
+id = "2510205994"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "poetry_word"
+name = "word"
+
+[poetry_slam]
+id = "2549856828"
+name = "poetry_slam"
+display_name = "Doki Doki Poetry Slam"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[project_plan_open]
+id = "2868820085"
+name = "project_plan_open"
+display_name = "Project Plan"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[save_me]
+id = "637886743"
+name = "save_me"
+display_name = "Monika - Save Me"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[sayori_exclusive1]
+id = "1148486650"
+name = "sayori_exclusive1"
+display_name = "Sayori Exclusive 1"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[sayori_exclusive2]
+id = "1131709031"
+name = "sayori_exclusive2"
+display_name = "Sayori Exclusive 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[sayori_load_fail]
+id = "1544806462"
+name = "sayori_load_fail"
+display_name = "Missing Sayori.chr"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[sayori_weekend]
+id = "2017716126"
+name = "sayori_weekend"
+display_name = "Sayori Weekend"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[second_delete]
+id = "443715169"
+name = "second_delete"
+display_name = "2-Stocked"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[sidestory1]
+id = "902862734"
+name = "sidestory1"
+display_name = "Side Story 1"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[sidestory2]
+id = "886085115"
+name = "sidestory2"
+display_name = "Side Story 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[sidestory3]
+id = "869307496"
+name = "sidestory3"
+display_name = "Side Story 3"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[sidestory4]
+id = "986750829"
+name = "sidestory4"
+display_name = "Side Story 4"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[sidestory5]
+id = "969973210"
+name = "sidestory5"
+display_name = "Side Story 5"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[sidestory6]
+id = "953195591"
+name = "sidestory6"
+display_name = "Side Story 6"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[sidestory_1]
+id = "4049700023"
+name = "sidestory_1"
+display_name = "First Side Story"
+show_notification = "true"
+ignore_in_completion = "false"
+trigger_progressed = "false"
+persistance = "never"
+type = "normal"
+
+[skip_monika]
+id = "2683898662"
+name = "skip_monika"
+display_name = "Monika Skip"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[sm_exclusive]
+id = "3452813446"
+display_name = "Sayori + Monika CG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+name = ""
+
+[sm_part2]
+id = "2466194519"
+display_name = "Trust 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+name = ""
+
+[sn_exclusive]
+id = "2340810551"
+name = "sn_exclusive"
+display_name = "Sayori + Natsuki CG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[sn_part2]
+id = "2376008094"
+name = "sn_part2"
+display_name = "Balance 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[special1]
+id = "34558099"
+name = "special1"
+display_name = "Special Poem 1"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special10]
+id = "3776704665"
+name = "special10"
+display_name = "Special Poem 10"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special11]
+id = "3759927046"
+name = "special11"
+display_name = "Special Poem 11"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special2]
+id = "51335718"
+name = "special2"
+display_name = "Special Poem 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special3]
+id = "68113337"
+name = "special3"
+display_name = "Special Poem 3"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special4]
+id = "84890956"
+name = "special4"
+display_name = "Special Poem 4"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special5a]
+id = "1210420506"
+name = "special5a"
+display_name = "Special Poem 5a"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special5b]
+id = "1193642887"
+name = "special5b"
+display_name = "Special Poem 5b"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special6]
+id = "118446194"
+name = "special6"
+display_name = "Special Poem 6"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special8]
+id = "152001432"
+name = "special8"
+display_name = "Special Poem 8"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special9]
+id = "168779051"
+name = "special9"
+display_name = "Special Poem 9"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[special_all]
+id = "1385364492"
+name = "special_all"
+display_name = "All Special Poems"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[special_ghost]
+id = "1323529112"
+name = "special_ghost"
+display_name = "Ghost Menu Secret"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[speed_poetry]
+id = "2464557096"
+name = "speed_poetry"
+display_name = "Creative Streak"
+show_notification = "false"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "never"
+type = "normal"
+
+[sy_exclusive]
+id = "26444170"
+name = "sy_exclusive"
+display_name = "Sayori + Yuri CG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+
+[sy_part2]
+id = "1470814123"
+name = "sy_part2"
+display_name = "Understanding 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "never"
+type = "normal"
+
+[take_my_hand]
+id = "2711807279"
+name = "take_my_hand"
+display_name = "Take My Hand"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[testvm_open]
+id = "4178693813"
+display_name = "Breakthrough"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[the_best_place_in_the_world]
+id = "2285054128"
+name = "the_best_place_in_the_world"
+display_name = "The Best Place in the World"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "true"
+persistance = "playthrough"
+type = "normal"
+
+[the_lady_who_knows_everything]
+id = "2266515947"
+name = "the_lady_who_knows_everything"
+display_name = "Monika - The Lady who Knows Everything"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[the_raccoon]
+id = "1777919230"
+name = "the_raccoon"
+display_name = "Yuri - The Raccoon"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[walk_with_sayori]
+id = "1685960407"
+name = "walk_with_sayori"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[weekend_ask_both]
+id = "582379314"
+name = "weekend_ask_both"
+display_name = ""
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[wheel]
+id = "473058556"
+name = "wheel"
+display_name = "Yuri - Wheel"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[ym_exclusive]
+id = "1630481492"
+display_name = "Yuri + Monika CG"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "forever"
+type = "normal"
+name = ""
+
+[ym_part2]
+id = "234204065"
+display_name = "Reflection 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+name = ""
+
+[yuri_confession_yes]
+id = "3605648560"
+name = "yuri_confession_yes"
+display_name = "Yuri Route Complete"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[yuri_exclusive1]
+id = "2677684128"
+name = "yuri_exclusive1"
+display_name = "Yuri Exclusive 1"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[yuri_exclusive2]
+id = "2728016985"
+name = "yuri_exclusive2"
+display_name = "Yuri Exclusive 2"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[yuri_noskip]
+id = "2849673567"
+name = "yuri_noskip"
+display_name = "Don't Skip Yuri"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"
+
+[yuri_weekend]
+id = "2358853584"
+name = "yuri_weekend"
+display_name = "Yuri Weekend"
+show_notification = "true"
+trigger_progressed = "true"
+ignore_in_completion = "false"
+persistance = "playthrough"
+type = "normal"

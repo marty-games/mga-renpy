@@ -1,0 +1,2564 @@
+hxppy thxughts.png
+image 456,386
+images/LauncherAssets/DDLC logo.png
+image 512,512
+images/LauncherAssets/FilesystemResources/Resources/hxppy thxughts.png
+image 456,386
+images/LauncherAssets/JukeboxImages/DDLC OST cover.png
+image 400,400
+images/LauncherAssets/JukeboxImages/DDLC Plus OST cover.png
+image 400,400
+images/LauncherAssets/MES Logo button color.png
+image 48,48
+images/LauncherAssets/MES Logo button.png
+image 48,48
+images/LauncherAssets/MES_LoadBarPattern.png
+image 9,16
+images/LauncherAssets/Mail/MES Logo Horizontal_smaller.png
+image 664,214
+images/LauncherAssets/WhitePixel.png
+image 1,1
+images/LauncherAssets/dots.png
+image 32,32
+images/bg/bedroom.png
+image 1920,1080
+images/bg/bsod.png
+image 1920,1080
+images/bg/class.png
+image 1920,1080
+images/bg/closet.png
+image 1920,1080
+images/bg/club-skill.png
+image 1920,1080
+images/bg/club.png
+image 1920,1080
+images/bg/club_morning.png
+image 1920,1080
+images/bg/corridor.png
+image 1920,1080
+images/bg/end-glitch1.JPG
+image 1280,1280
+images/bg/end-glitch2.JPG
+image 1280,1280
+images/bg/end-glitch3.JPG
+image 1280,1280
+images/bg/end-glitch4.JPG
+image 1280,1280
+images/bg/eyes.png
+image 540,720
+images/bg/glitch-blue.png
+image 512,480
+images/bg/glitch-green.png
+image 512,480
+images/bg/glitch-red.png
+image 512,480
+images/bg/glitch.jpg
+image 512,480
+images/bg/house.jpg
+image 1280,720
+images/bg/house.png
+image 1920,1080
+images/bg/kitchen.png
+image 1920,1080
+images/bg/musicroom.png
+image 1920,1080
+images/bg/noise1.png
+image 1920,1080
+images/bg/noise2.png
+image 1920,1080
+images/bg/noise3.png
+image 1920,1080
+images/bg/noise4.png
+image 1920,1080
+images/bg/notebook-glitch.png
+image 1280,720
+images/bg/notebook.png
+image 1920,1080
+images/bg/poem-glitch1.png
+image 1280,720
+images/bg/poem-glitch2.png
+image 1280,720
+images/bg/poem.jpg
+image 1200,1080
+images/bg/poem_pm1.png
+image 800,720
+images/bg/poem_y1.jpg
+image 800,720
+images/bg/poem_y2.jpg
+image 1200,1080
+images/bg/residential.png
+image 1920,1080
+images/bg/sayori_bedroom.png
+image 1920,1080
+images/bg/splash-comp-glitch.png
+image 1920,1080
+images/bg/splash-comp-glitch2.png
+image 1920,1080
+images/bg/splash-comp.png
+image 1920,1080
+images/bg/splash-glitch.png
+image 1280,720
+images/bg/splash-glitch2.png
+image 1280,720
+images/bg/splash-white.png
+image 1024,1024
+images/bg/splash.png
+image 1024,1024
+images/bg/stairwell.png
+image 1920,1080
+images/bg/veinmask.png
+image 1280,720
+images/bg/veinmaskb.png
+image 1280,720
+images/bg/vignette.png
+image 1280,720
+images/bg/warning.png
+image 1920,1080
+images/bg/warning2.png
+image 1920,1080
+images/cg/credits/1.png
+image 1280,720
+images/cg/credits/10.png
+image 1280,720
+images/cg/credits/10b.png
+image 1280,720
+images/cg/credits/1b.png
+image 1280,720
+images/cg/credits/2.png
+image 1280,720
+images/cg/credits/2b.png
+image 1280,720
+images/cg/credits/3.png
+image 1280,720
+images/cg/credits/3b.png
+image 1280,720
+images/cg/credits/4.png
+image 1280,720
+images/cg/credits/4b.png
+image 1280,720
+images/cg/credits/5.png
+image 1280,720
+images/cg/credits/5b.png
+image 1280,720
+images/cg/credits/6.png
+image 1280,720
+images/cg/credits/6b.png
+image 1280,720
+images/cg/credits/7.png
+image 1280,720
+images/cg/credits/7b.png
+image 1280,720
+images/cg/credits/8.png
+image 1280,720
+images/cg/credits/8b.png
+image 1280,720
+images/cg/credits/9.png
+image 1280,720
+images/cg/credits/9b.png
+image 1280,720
+images/cg/monika/child.png
+image 1280,720
+images/cg/monika/child_2.png
+image 1280,720
+images/cg/monika/mask.png
+image 1280,720
+images/cg/monika/mask_2.png
+image 1280,720
+images/cg/monika/mask_3.png
+image 1280,720
+images/cg/monika/maskb.png
+image 1280,720
+images/cg/monika/monika_bg.png
+image 1920,1080
+images/cg/monika/monika_bg_glitch.png
+image 1280,720
+images/cg/monika/monika_bg_highlight.png
+image 1920,1080
+images/cg/monika/monika_glitch1.png
+image 1280,720
+images/cg/monika/monika_glitch2.png
+image 1280,720
+images/cg/monika/monika_glitch3.png
+image 1280,720
+images/cg/monika/monika_glitch4.png
+image 1280,720
+images/cg/monika/monika_room.png
+image 1920,1080
+images/cg/monika/monika_room_highlight.png
+image 1920,1080
+images/cg/monika/monika_scare.png
+image 1280,720
+images/cg/monika/room.png
+image 1280,720
+images/cg/n_cg1_base.png
+image 1920,1080
+images/cg/n_cg1_bg.png
+image 1920,1080
+images/cg/n_cg1_exp1.png
+image 1920,1080
+images/cg/n_cg1_exp2.png
+image 1920,1080
+images/cg/n_cg1_exp3.png
+image 1920,1080
+images/cg/n_cg1_exp4.png
+image 1920,1080
+images/cg/n_cg1_exp5.png
+image 1920,1080
+images/cg/n_cg1b.png
+image 1920,1080
+images/cg/n_cg2_base.png
+image 1920,1080
+images/cg/n_cg2_bg.png
+image 1920,1080
+images/cg/n_cg2_exp1.png
+image 1920,1080
+images/cg/n_cg2_exp2.png
+image 1920,1080
+images/cg/n_cg3_base.png
+image 1920,1080
+images/cg/n_cg3_cake.png
+image 1920,1080
+images/cg/n_cg3_exp1.png
+image 1920,1080
+images/cg/n_cg3_exp2.png
+image 1920,1080
+images/cg/s_cg1.png
+image 1920,1080
+images/cg/s_cg2_base1.png
+image 1920,1080
+images/cg/s_cg2_base2.png
+image 1920,1080
+images/cg/s_cg2_exp1.png
+image 1920,1080
+images/cg/s_cg2_exp2.png
+image 1920,1080
+images/cg/s_cg2_exp3.png
+image 1920,1080
+images/cg/s_cg3.png
+image 1920,1080
+images/cg/s_kill.png
+image 286,1050
+images/cg/s_kill2.png
+image 286,1050
+images/cg/s_kill_bg.png
+image 1920,1080
+images/cg/s_kill_bg2.png
+image 1920,1080
+images/cg/s_kill_early.png
+image 275,1008
+images/cg/y_cg1_base.png
+image 1920,1080
+images/cg/y_cg1_exp1.png
+image 1920,1080
+images/cg/y_cg1_exp2.png
+image 1920,1080
+images/cg/y_cg1_exp3.png
+image 1920,1080
+images/cg/y_cg2.png
+image 1920,1080
+images/cg/y_cg2_base.png
+image 1920,1080
+images/cg/y_cg2_bg1.png
+image 1920,1080
+images/cg/y_cg2_bg2.png
+image 1920,1080
+images/cg/y_cg2_details.png
+image 1920,1080
+images/cg/y_cg2_dust1.png
+image 1920,1080
+images/cg/y_cg2_dust2.png
+image 1920,1080
+images/cg/y_cg2_dust3.png
+image 1920,1080
+images/cg/y_cg2_dust4.png
+image 1920,1080
+images/cg/y_cg2_exp2.png
+image 1920,1080
+images/cg/y_cg2_exp3.png
+image 1920,1080
+images/cg/y_cg2_nochoc.png
+image 1920,1080
+images/cg/y_cg3_base.png
+image 1920,1080
+images/cg/y_cg3_exp1.png
+image 1920,1080
+images/cg/y_kill/1a.png
+image 1920,1080
+images/cg/y_kill/1b.png
+image 1920,1080
+images/cg/y_kill/1c.png
+image 1920,1080
+images/cg/y_kill/2a.png
+image 1920,1080
+images/cg/y_kill/2b.png
+image 1920,1080
+images/cg/y_kill/2c.png
+image 1920,1080
+images/cg/y_kill/3a.png
+image 1920,1080
+images/cg/y_kill/3b.png
+image 1920,1080
+images/cg/y_kill/3c.png
+image 1920,1080
+images/gallery_images/Monika_Sitting_Wallpaper.png
+image 1920,1080
+images/gallery_images/Monika_Sitting_Wallpaper_vertical.png
+image 1080,1920
+images/gallery_images/Natsuki_Standing_Wallpaper.png
+image 1920,1080
+images/gallery_images/Natsuki_Standing_Wallpaper_vertical.png
+image 1220,2168
+images/gallery_images/Sayori_Standing_Wallpaper.png
+image 1920,1080
+images/gallery_images/Sayori_Standing_Wallpaper_vertical.png
+image 1215,2160
+images/gallery_images/Yuri_standing_Wallpaper.png
+image 1920,1080
+images/gallery_images/Yuri_standing_Wallpaper_vertical.png
+image 1215,2160
+images/gallery_images/dan_message_de-de.png
+image 1920,1080
+images/gallery_images/dan_message_en-us.png
+image 1920,1080
+images/gallery_images/dan_message_fr-fr.png
+image 1920,1080
+images/gallery_images/dan_message_it-it.png
+image 1920,1080
+images/gallery_images/dan_message_ja.png
+image 1920,1080
+images/gallery_images/dan_message_ko.png
+image 1920,1080
+images/gallery_images/dan_message_pt-br.png
+image 1920,1080
+images/gallery_images/dan_message_pyc.png
+image 1920,1080
+images/gallery_images/dan_message_spa-M9.png
+image 1920,1080
+images/gallery_images/dan_message_spa.png
+image 1920,1080
+images/gallery_images/dan_message_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_april_fools_2018.png
+image 1920,1080
+images/gallery_images/gallery_birthday_2019.png
+image 1920,1080
+images/gallery_images/gallery_birthday_2020.png
+image 1920,1080
+images/gallery_images/gallery_chibi wallpaper_sketch version.png
+image 1920,1080
+images/gallery_images/gallery_chibi_wallpaper_new.png
+image 1920,1080
+images/gallery_images/gallery_chibi_wallpaper_old.png
+image 1920,1080
+images/gallery_images/gallery_david_evelyn_cast_sketch.png
+image 1920,1080
+images/gallery_images/gallery_david_evelyn_monika_sketch.png
+image 1920,1080
+images/gallery_images/gallery_david_evelyn_natsuki_sketch.png
+image 1920,1080
+images/gallery_images/gallery_david_evelyn_sayori_hairstyle_sketch.png
+image 1920,1080
+images/gallery_images/gallery_david_evelyn_sayori_sketch.png
+image 1920,1080
+images/gallery_images/gallery_david_evelyn_uniform_sketches.png
+image 1920,1080
+images/gallery_images/gallery_default_wallpaper.png
+image 1920,1080
+images/gallery_images/gallery_epilogue.png
+image 1920,1080
+images/gallery_images/gallery_epilogue_alt.png
+image 1920,1080
+images/gallery_images/gallery_final_message.png
+image 1920,1080
+images/gallery_images/gallery_final_message_de-de.png
+image 1920,1080
+images/gallery_images/gallery_final_message_en-us.png
+image 1920,1080
+images/gallery_images/gallery_final_message_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_final_message_it-it.png
+image 1920,1080
+images/gallery_images/gallery_final_message_ja.png
+image 1920,1080
+images/gallery_images/gallery_final_message_ko.png
+image 1920,1080
+images/gallery_images/gallery_final_message_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_final_message_pyc.png
+image 1920,1080
+images/gallery_images/gallery_final_message_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_final_message_spa.png
+image 1920,1080
+images/gallery_images/gallery_final_message_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_final_message_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_ghost_menu.png
+image 1920,1080
+images/gallery_images/gallery_group_new_key_art.png
+image 1920,1080
+images/gallery_images/gallery_halloween_2019.png
+image 1920,1080
+images/gallery_images/gallery_kagefumi_sayori_sketch.png
+image 1920,1080
+images/gallery_images/gallery_kagefumi_wallpaper_1.png
+image 1920,1080
+images/gallery_images/gallery_kagefumi_wallpaper_2.png
+image 1920,1080
+images/gallery_images/gallery_m_cg1_sketch.png
+image 1920,1080
+images/gallery_images/gallery_mc_sketch.png
+image 1920,1080
+images/gallery_images/gallery_monika_2025.png
+image 3840,2160
+images/gallery_images/gallery_monika_2025_vertical.png
+image 1080,1920
+images/gallery_images/gallery_monika_new.png
+image 1920,1080
+images/gallery_images/gallery_monika_new_vertical.png
+image 2160,3840
+images/gallery_images/gallery_monika_old.png
+image 1920,1080
+images/gallery_images/gallery_monika_old_vertical.png
+image 2160,3840
+images/gallery_images/gallery_n_cg1_sketch.png
+image 1920,1080
+images/gallery_images/gallery_n_cg2_sketch.png
+image 1786,1004
+images/gallery_images/gallery_natsuki_2025.png
+image 3840,2160
+images/gallery_images/gallery_natsuki_2025_vertical.png
+image 1080,1920
+images/gallery_images/gallery_natsuki_new.png
+image 1920,1080
+images/gallery_images/gallery_natsuki_new_vertical.png
+image 2160,3840
+images/gallery_images/gallery_natsuki_old.png
+image 1920,1080
+images/gallery_images/gallery_natsuki_old_vertical.png
+image 2160,3840
+images/gallery_images/gallery_nm.png
+image 1920,1080
+images/gallery_images/gallery_ny.png
+image 1920,1080
+images/gallery_images/gallery_s_cg1_sketch.png
+image 1920,1080
+images/gallery_images/gallery_s_cg2_sketch.png
+image 1920,1080
+images/gallery_images/gallery_s_cg3_sketch.png
+image 1920,1080
+images/gallery_images/gallery_sayori_2025.png
+image 3840,2160
+images/gallery_images/gallery_sayori_2025_vertical.png
+image 1080,1920
+images/gallery_images/gallery_sayori_new.png
+image 1920,1080
+images/gallery_images/gallery_sayori_new_vertical.png
+image 2160,3840
+images/gallery_images/gallery_sayori_old.png
+image 1920,1080
+images/gallery_images/gallery_sayori_old_vertical.png
+image 2160,3840
+images/gallery_images/gallery_sleepover.png
+image 1920,1080
+images/gallery_images/gallery_sm.png
+image 1920,1080
+images/gallery_images/gallery_sn.png
+image 1920,1080
+images/gallery_images/gallery_special1.png
+image 1920,1080
+images/gallery_images/gallery_special10.png
+image 1920,1080
+images/gallery_images/gallery_special10_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special10_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special10_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special10_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special10_ja.png
+image 1920,1080
+images/gallery_images/gallery_special10_ko.png
+image 1920,1080
+images/gallery_images/gallery_special10_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special10_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special10_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special10_spa.png
+image 1920,1080
+images/gallery_images/gallery_special10_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special10_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special11.png
+image 1920,1080
+images/gallery_images/gallery_special11_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special11_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special11_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special11_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special11_ja.png
+image 1920,1080
+images/gallery_images/gallery_special11_ko.png
+image 1920,1080
+images/gallery_images/gallery_special11_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special11_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special11_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special11_spa.png
+image 1920,1080
+images/gallery_images/gallery_special11_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special11_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special2.png
+image 1920,1080
+images/gallery_images/gallery_special2_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special2_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special2_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special2_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special2_ja.png
+image 1920,1080
+images/gallery_images/gallery_special2_ko.png
+image 1920,1080
+images/gallery_images/gallery_special2_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special2_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special2_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special2_spa.png
+image 1920,1080
+images/gallery_images/gallery_special2_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special2_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special3.png
+image 1920,1080
+images/gallery_images/gallery_special3_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special3_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special3_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special3_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special3_ja.png
+image 1920,1080
+images/gallery_images/gallery_special3_ko.png
+image 1920,1080
+images/gallery_images/gallery_special3_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special3_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special3_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special3_spa.png
+image 1920,1080
+images/gallery_images/gallery_special3_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special3_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special4.png
+image 1920,1080
+images/gallery_images/gallery_special4_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special4_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special4_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special4_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special4_ja.png
+image 1920,1080
+images/gallery_images/gallery_special4_ko.png
+image 1920,1080
+images/gallery_images/gallery_special4_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special4_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special4_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special4_spa.png
+image 1920,1080
+images/gallery_images/gallery_special4_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special4_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special5a.png
+image 1920,1080
+images/gallery_images/gallery_special5a_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special5a_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special5a_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special5a_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special5a_ja.png
+image 1920,1080
+images/gallery_images/gallery_special5a_ko.png
+image 1920,1080
+images/gallery_images/gallery_special5a_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special5a_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special5a_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special5a_spa.png
+image 1920,1080
+images/gallery_images/gallery_special5a_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special5a_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special5b.png
+image 1920,1080
+images/gallery_images/gallery_special5b_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special5b_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special5b_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special5b_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special5b_ja.png
+image 1920,1080
+images/gallery_images/gallery_special5b_ko.png
+image 1920,1080
+images/gallery_images/gallery_special5b_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special5b_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special5b_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special5b_spa.png
+image 1920,1080
+images/gallery_images/gallery_special5b_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special5b_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special6.png
+image 1920,1080
+images/gallery_images/gallery_special6_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special6_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special6_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special6_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special6_ja.png
+image 1920,1080
+images/gallery_images/gallery_special6_ko.png
+image 1920,1080
+images/gallery_images/gallery_special6_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special6_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special6_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special6_spa.png
+image 1920,1080
+images/gallery_images/gallery_special6_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special6_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special8.png
+image 1920,1080
+images/gallery_images/gallery_special8_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special8_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special8_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special8_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special8_ja.png
+image 1920,1080
+images/gallery_images/gallery_special8_ko.png
+image 1920,1080
+images/gallery_images/gallery_special8_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special8_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special8_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special8_spa.png
+image 1920,1080
+images/gallery_images/gallery_special8_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special8_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_special9.png
+image 1920,1080
+images/gallery_images/gallery_special9_de-de.png
+image 1920,1080
+images/gallery_images/gallery_special9_en-us.png
+image 1920,1080
+images/gallery_images/gallery_special9_fr-fr.png
+image 1920,1080
+images/gallery_images/gallery_special9_it-it.png
+image 1920,1080
+images/gallery_images/gallery_special9_ja.png
+image 1920,1080
+images/gallery_images/gallery_special9_ko.png
+image 1920,1080
+images/gallery_images/gallery_special9_pt-br.png
+image 1920,1080
+images/gallery_images/gallery_special9_pyc.png
+image 1920,1080
+images/gallery_images/gallery_special9_spa-M9.png
+image 1920,1080
+images/gallery_images/gallery_special9_spa.png
+image 1920,1080
+images/gallery_images/gallery_special9_zh-cn.png
+image 1920,1080
+images/gallery_images/gallery_special9_zh-tw.png
+image 1920,1080
+images/gallery_images/gallery_stationery_wallpaper.png
+image 1920,1080
+images/gallery_images/gallery_sy.png
+image 1920,1080
+images/gallery_images/gallery_v-day_2018_monika.png
+image 1920,1080
+images/gallery_images/gallery_v-day_2018_natsuki.png
+image 1920,1080
+images/gallery_images/gallery_v-day_2018_sayori.png
+image 1920,1080
+images/gallery_images/gallery_v-day_2018_yuri.png
+image 1920,1080
+images/gallery_images/gallery_vday_chibi _wallpaper.png
+image 1920,1080
+images/gallery_images/gallery_warning_screen_sketch_version.png
+image 1920,1080
+images/gallery_images/gallery_y_cg1_sketch.png
+image 1920,1080
+images/gallery_images/gallery_y_cg2_sketch.png
+image 1920,1080
+images/gallery_images/gallery_ym.png
+image 1920,1080
+images/gallery_images/gallery_yuri_2025.png
+image 3840,2160
+images/gallery_images/gallery_yuri_2025_vertical.png
+image 1080,1920
+images/gallery_images/gallery_yuri_new.png
+image 1920,1080
+images/gallery_images/gallery_yuri_new_vertical.png
+image 2160,3840
+images/gallery_images/gallery_yuri_old.png
+image 1920,1080
+images/gallery_images/gallery_yuri_old_vertical.png
+image 2160,3840
+images/gallery_images/m_cg1.png
+image 1920,1080
+images/gallery_images/n_cg1.png
+image 1920,1080
+images/gallery_images/n_cg2.png
+image 1920,1080
+images/gallery_images/s_cg1.png
+image 1920,1080
+images/gallery_images/s_cg2.png
+image 1920,1080
+images/gallery_images/s_cg3.png
+image 1920,1080
+images/gallery_images/y_cg1.png
+image 1920,1080
+images/gallery_images2/dan_message_fr-fr2.png
+image 1920,1080
+images/gallery_images2/gallery_poem_saveme_de-de2.png
+image 1920,1080
+images/gallery_images2/gallery_poem_saveme_en-us2.png
+image 1920,1080
+images/gallery_images2/gallery_poem_saveme_fr-fr2.png
+image 1920,1080
+images/gallery_images2/gallery_poem_saveme_it-it2.png
+image 1920,1080
+images/gallery_images2/gallery_poem_saveme_pt-br2.png
+image 1920,1080
+images/gallery_images2/gallery_poem_saveme_spa-m92.png
+image 1920,1080
+images/gallery_images2/gallery_poem_saveme_spa2.png
+image 1920,1080
+images/gallery_thumbnails/Monika_Sitting_Wallpaper_th.png
+image 257,145
+images/gallery_thumbnails/Natsuki_Standing_Wallpaper_th.png
+image 257,145
+images/gallery_thumbnails/Sayori_Standing_Wallpaper_th.png
+image 257,145
+images/gallery_thumbnails/Yuri_standing_Wallpaper_th.png
+image 257,145
+images/gallery_thumbnails/bg_bedroom_th.png
+image 257,145
+images/gallery_thumbnails/bg_class1_th.png
+image 257,145
+images/gallery_thumbnails/bg_class2_th.png
+image 257,145
+images/gallery_thumbnails/bg_corridor_th.png
+image 257,145
+images/gallery_thumbnails/bg_kitchen_th.png
+image 257,145
+images/gallery_thumbnails/bg_residential_th.png
+image 257,145
+images/gallery_thumbnails/bg_sbedroom_th.png
+image 257,145
+images/gallery_thumbnails/gallery_april_fools_2018_th.png
+image 257,145
+images/gallery_thumbnails/gallery_bg_closet_th.png
+image 257,145
+images/gallery_thumbnails/gallery_bg_musicroom_th.png
+image 257,145
+images/gallery_thumbnails/gallery_bg_stairwell_th.png
+image 257,145
+images/gallery_thumbnails/gallery_birthday_2019_th.png
+image 257,145
+images/gallery_thumbnails/gallery_birthday_2020_th.png
+image 257,145
+images/gallery_thumbnails/gallery_chibi wallpaper_sketch version_th.png
+image 257,145
+images/gallery_thumbnails/gallery_chibi_wallpaper_new_th.png
+image 257,145
+images/gallery_thumbnails/gallery_chibi_wallpaper_old_th.png
+image 257,145
+images/gallery_thumbnails/gallery_club_morning_th.png
+image 257,145
+images/gallery_thumbnails/gallery_david_evelyn_cast_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_david_evelyn_monika_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_david_evelyn_natsuki_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_david_evelyn_sayori_hairstyle_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_david_evelyn_sayori_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_david_evelyn_uniform_sketches_th.png
+image 257,145
+images/gallery_thumbnails/gallery_default_wallpaper_th.png
+image 257,145
+images/gallery_thumbnails/gallery_epilogue_alt_th.png
+image 257,145
+images/gallery_thumbnails/gallery_epilogue_th.png
+image 257,145
+images/gallery_thumbnails/gallery_ghost_menu_th.png
+image 257,145
+images/gallery_thumbnails/gallery_group_new_key_art_th.png
+image 257,145
+images/gallery_thumbnails/gallery_halloween_2019_th.png
+image 257,145
+images/gallery_thumbnails/gallery_kagefumi_sayori_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_kagefumi_wallpaper_1_th.png
+image 257,145
+images/gallery_thumbnails/gallery_kagefumi_wallpaper_2_th.png
+image 257,145
+images/gallery_thumbnails/gallery_m_cg1_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_mc_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_monika_2025_th.png
+image 257,145
+images/gallery_thumbnails/gallery_monika_new_th.png
+image 257,145
+images/gallery_thumbnails/gallery_monika_old_th.png
+image 257,145
+images/gallery_thumbnails/gallery_n_cg1_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_n_cg2_sketch_th.png
+image 257,144
+images/gallery_thumbnails/gallery_natsuki_2025_th.png
+image 257,145
+images/gallery_thumbnails/gallery_natsuki_new_th.png
+image 257,145
+images/gallery_thumbnails/gallery_natsuki_old_th.png
+image 257,145
+images/gallery_thumbnails/gallery_nm_th.png
+image 257,145
+images/gallery_thumbnails/gallery_ny_th.png
+image 257,145
+images/gallery_thumbnails/gallery_poem_ax_th.png
+image 257,145
+images/gallery_thumbnails/gallery_poem_complete_th.png
+image 257,145
+images/gallery_thumbnails/gallery_poem_monika_th.png
+image 257,145
+images/gallery_thumbnails/gallery_poem_natsuki_th.png
+image 257,145
+images/gallery_thumbnails/gallery_poem_sayori_th.png
+image 257,145
+images/gallery_thumbnails/gallery_poem_sidestory_natsuki_th.png
+image 257,145
+images/gallery_thumbnails/gallery_poem_sidestory_sayori_th.png
+image 257,145
+images/gallery_thumbnails/gallery_poem_yuri_th.png
+image 257,145
+images/gallery_thumbnails/gallery_s_cg1_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_s_cg2_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_s_cg3_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_sayori_2025_th.png
+image 257,145
+images/gallery_thumbnails/gallery_sayori_new_th.png
+image 257,145
+images/gallery_thumbnails/gallery_sayori_old_th.png
+image 257,145
+images/gallery_thumbnails/gallery_sleepover_th.png
+image 257,145
+images/gallery_thumbnails/gallery_sm_th.png
+image 257,145
+images/gallery_thumbnails/gallery_sn_th.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special10_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special11_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special2_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special3_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special4_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special5a_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special5b_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special6_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special8_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_de-de.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_en-us.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_fr-fr.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_it-it.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_ja.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_ko.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_pt-br.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_pyc.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_spa-M9.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_spa.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_zh-cn.png
+image 257,145
+images/gallery_thumbnails/gallery_special9_th_zh-tw.png
+image 257,145
+images/gallery_thumbnails/gallery_stationery_wallpaper_th.png
+image 257,145
+images/gallery_thumbnails/gallery_sy_th.png
+image 257,145
+images/gallery_thumbnails/gallery_v-day_2018_monika_th.png
+image 257,145
+images/gallery_thumbnails/gallery_v-day_2018_natsuki_th.png
+image 257,145
+images/gallery_thumbnails/gallery_v-day_2018_sayori_th.png
+image 257,145
+images/gallery_thumbnails/gallery_v-day_2018_yuri_th.png
+image 257,145
+images/gallery_thumbnails/gallery_vday_chibi _wallpaper_th.png
+image 257,145
+images/gallery_thumbnails/gallery_wallpaper_groupold_th.png
+image 257,145
+images/gallery_thumbnails/gallery_warning_screen_sketch_version_th.png
+image 257,145
+images/gallery_thumbnails/gallery_y_cg1_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_y_cg2_sketch_th.png
+image 257,145
+images/gallery_thumbnails/gallery_ym_th.png
+image 257,145
+images/gallery_thumbnails/gallery_yuri_2025_th.png
+image 257,145
+images/gallery_thumbnails/gallery_yuri_new_th.png
+image 257,145
+images/gallery_thumbnails/gallery_yuri_old_th.png
+image 257,145
+images/gallery_thumbnails/happy_end_th.png
+image 257,145
+images/gallery_thumbnails/monika_exclusive_th.png
+image 257,145
+images/gallery_thumbnails/natsuki_exclusive1_th.png
+image 257,145
+images/gallery_thumbnails/natsuki_exclusive2_th.png
+image 257,145
+images/gallery_thumbnails/natsuki_weekend_th.png
+image 257,145
+images/gallery_thumbnails/notebook_th.png
+image 257,145
+images/gallery_thumbnails/sayori_exclusive1_th.png
+image 257,145
+images/gallery_thumbnails/sayori_exclusive2_th.png
+image 257,145
+images/gallery_thumbnails/sayori_weekend_th.png
+image 257,145
+images/gallery_thumbnails/special10_th.png
+image 257,145
+images/gallery_thumbnails/special11_th.png
+image 257,145
+images/gallery_thumbnails/special1_th.png
+image 257,145
+images/gallery_thumbnails/special2_th.png
+image 257,145
+images/gallery_thumbnails/special3_th.png
+image 257,145
+images/gallery_thumbnails/special4_th.png
+image 257,145
+images/gallery_thumbnails/special5a_th.png
+image 257,145
+images/gallery_thumbnails/special5b_th.png
+image 257,145
+images/gallery_thumbnails/special6_th.png
+image 257,145
+images/gallery_thumbnails/special8_th.png
+image 257,145
+images/gallery_thumbnails/special9_th.png
+image 257,145
+images/gallery_thumbnails/yuri_exclusive1_th.png
+image 257,145
+images/gallery_thumbnails/yuri_exclusive2_th.png
+image 257,145
+images/gallery_thumbnails/yuri_weekend_th.png
+image 257,145
+images/iap_fanfare/Fanfare__0000_PuckBlur.png
+image 1096,1080
+images/iap_fanfare/Fanfare__0001_Background-Gradient.png
+image 1920,1080
+images/iap_fanfare/LockArm.png
+image 1200,1656
+images/iap_fanfare/LockFrame.png
+image 1200,1656
+images/iap_fanfare/LockPlus.png
+image 1200,1656
+images/iap_fanfare/ddlc_plus_logo_fanfare_Center-Mask.png
+image 900,902
+images/iap_fanfare/ddlc_plus_logo_fanfare_D-01.png
+image 191,227
+images/iap_fanfare/ddlc_plus_logo_fanfare_D-01_s-Outer-Stroke.png
+image 191,227
+images/iap_fanfare/ddlc_plus_logo_fanfare_D-02.png
+image 176,220
+images/iap_fanfare/ddlc_plus_logo_fanfare_D-02_s-Outer-Stroke.png
+image 176,220
+images/iap_fanfare/ddlc_plus_logo_fanfare_I-1.png
+image 98,204
+images/iap_fanfare/ddlc_plus_logo_fanfare_I-1_s-Outer-Stroke.png
+image 98,204
+images/iap_fanfare/ddlc_plus_logo_fanfare_I-2.png
+image 117,210
+images/iap_fanfare/ddlc_plus_logo_fanfare_I-2_s-Outer-Stroke.png
+image 117,210
+images/iap_fanfare/ddlc_plus_logo_fanfare_K-1.png
+image 232,228
+images/iap_fanfare/ddlc_plus_logo_fanfare_K-1_s-Outer-Stroke.png
+image 232,228
+images/iap_fanfare/ddlc_plus_logo_fanfare_K2.png
+image 209,212
+images/iap_fanfare/ddlc_plus_logo_fanfare_K2_s-Outer-Stroke.png
+image 209,212
+images/iap_fanfare/ddlc_plus_logo_fanfare_OO.png
+image 223,325
+images/iap_fanfare/ddlc_plus_logo_fanfare_OO_s-Outer-Stroke.png
+image 223,325
+images/iap_fanfare/ddlc_plus_logo_fanfare_Outer-Ring.png
+image 965,966
+images/iap_fanfare/ddlc_plus_logo_fanfare_Puck-Inside-No-Heart.png
+image 900,902
+images/iap_fanfare/ddlc_plus_logo_fanfare_Puck-Inside-with-Heart.png
+image 900,902
+images/iap_fanfare/ddlc_plus_logo_fanfare_Shadow.png
+image 941,631
+images/iap_fanfare/ddlc_plus_logo_fanfare_Text-and-Text-Box.png
+image 710,151
+images/iap_fanfare/ddlc_plus_logo_fanfare_cursor.png
+image 156,172
+images/iap_fanfare/ddlc_plus_logo_fanfare_doki_outline.png
+image 685,477
+images/iap_fanfare/ddlc_plus_logo_fanfare_plus.png
+image 322,342
+images/iap_fanfare/ddlc_plus_logo_fanfare_scan-lines.png
+image 894,893
+images/menu/credits_temp.png
+image 1280,720
+images/menu/credits_temp1.png
+image 640,360
+images/menu/frame-old.png
+image 64,64
+images/menu/frame.png
+image 96,96
+images/menu/notfound.png
+image 640,360
+images/menu/wipedown.png
+image 1280,720
+images/menu/wipeleft.png
+image 1280,720
+images/monika/1l.png
+image 1440,1440
+images/monika/1r.png
+image 1440,1440
+images/monika/2l.png
+image 1440,1440
+images/monika/2r.png
+image 1440,1440
+images/monika/3a.png
+image 1440,1440
+images/monika/3b.png
+image 1440,1440
+images/monika/a.png
+image 1440,1440
+images/monika/b.png
+image 1440,1440
+images/monika/c.png
+image 1440,1440
+images/monika/d.png
+image 1440,1440
+images/monika/e.png
+image 1440,1440
+images/monika/f.png
+image 1440,1440
+images/monika/g.png
+image 1440,1440
+images/monika/g1.png
+image 960,960
+images/monika/g2.png
+image 720,960
+images/monika/g3.png
+image 720,960
+images/monika/g4.png
+image 720,960
+images/monika/h.png
+image 1440,1440
+images/monika/i.png
+image 1440,1440
+images/monika/j.png
+image 1440,1440
+images/monika/k.png
+image 1440,1440
+images/monika/l.png
+image 1440,1440
+images/monika/m.png
+image 1440,1440
+images/monika/n.png
+image 1440,1440
+images/monika/o.png
+image 1440,1440
+images/monika/p.png
+image 1440,1440
+images/monika/q.png
+image 1440,1440
+images/monika/r.png
+image 1440,1440
+images/natsuki/0.png
+image 960,960
+images/natsuki/1bl.png
+image 1440,1440
+images/natsuki/1br.png
+image 1440,1440
+images/natsuki/1l.png
+image 1440,1440
+images/natsuki/1r.png
+image 1440,1440
+images/natsuki/1t.png
+image 1440,1440
+images/natsuki/2bl.png
+image 1440,1440
+images/natsuki/2br.png
+image 1440,1440
+images/natsuki/2bt.png
+image 1440,1440
+images/natsuki/2bta.png
+image 1440,1440
+images/natsuki/2btb.png
+image 1440,1440
+images/natsuki/2btc.png
+image 1440,1440
+images/natsuki/2btd.png
+image 1440,1440
+images/natsuki/2bte.png
+image 1440,1440
+images/natsuki/2btf.png
+image 1440,1440
+images/natsuki/2btg.png
+image 1440,1440
+images/natsuki/2bth.png
+image 1440,1440
+images/natsuki/2bti.png
+image 1440,1440
+images/natsuki/2l.png
+image 1440,1440
+images/natsuki/2r.png
+image 1440,1440
+images/natsuki/2t.png
+image 1440,1440
+images/natsuki/2ta.png
+image 1440,1440
+images/natsuki/2tb.png
+image 1440,1440
+images/natsuki/2tc.png
+image 1440,1440
+images/natsuki/2td.png
+image 1440,1440
+images/natsuki/2te.png
+image 1440,1440
+images/natsuki/2tf.png
+image 1440,1440
+images/natsuki/2tg.png
+image 1440,1440
+images/natsuki/2th.png
+image 1440,1440
+images/natsuki/2ti.png
+image 1440,1440
+images/natsuki/3.png
+image 1440,1440
+images/natsuki/3b.png
+image 1440,1440
+images/natsuki/a.png
+image 1440,1440
+images/natsuki/b.png
+image 1440,1440
+images/natsuki/blackeyes.png
+image 960,960
+images/natsuki/c.png
+image 1440,1440
+images/natsuki/d.png
+image 1440,1440
+images/natsuki/e.png
+image 1440,1440
+images/natsuki/eye.png
+image 46,46
+images/natsuki/f.png
+image 1440,1440
+images/natsuki/g.png
+image 1440,1440
+images/natsuki/ghost1.png
+image 1440,1440
+images/natsuki/ghost2.png
+image 1440,1440
+images/natsuki/ghost3.png
+image 1440,1440
+images/natsuki/ghost_blood.png
+image 115,85
+images/natsuki/glitch1.png
+image 1440,1440
+images/natsuki/h.png
+image 1440,1440
+images/natsuki/i.png
+image 1440,1440
+images/natsuki/j.png
+image 1440,1440
+images/natsuki/k.png
+image 1440,1440
+images/natsuki/l.png
+image 1440,1440
+images/natsuki/m.png
+image 1440,1440
+images/natsuki/mouth.png
+image 55,37
+images/natsuki/n.png
+image 1440,1440
+images/natsuki/o.png
+image 1440,1440
+images/natsuki/p.png
+image 1440,1440
+images/natsuki/q.png
+image 1440,1440
+images/natsuki/r.png
+image 1440,1440
+images/natsuki/s.png
+image 1440,1440
+images/natsuki/scream.png
+image 1440,1440
+images/natsuki/t.png
+image 1440,1440
+images/natsuki/u.png
+image 1440,1440
+images/natsuki/v.png
+image 1440,1440
+images/natsuki/vomit.png
+image 1440,1440
+images/natsuki/w.png
+image 1440,1440
+images/natsuki/x.png
+image 1440,1440
+images/natsuki/y.png
+image 1440,1440
+images/natsuki/z.png
+image 1440,1440
+images/poem_special/Generated/bsod_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_end_clearall_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_end_clearall_th_en-us.png
+image 192,108
+images/poem_special/Generated/poem_end_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special10_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special10_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special11_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special11_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special1_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special2_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special2_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special3_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special3_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special4_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special4_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special5a_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special5a_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special5b_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special5b_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special6_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special6_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special8_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special8_th_en-us.png
+image 257,145
+images/poem_special/Generated/poem_special9_en-us.png
+image 1920,1080
+images/poem_special/Generated/poem_special9_th_en-us.png
+image 257,145
+images/poem_special/poem_end.png
+image 1200,1080
+images/poem_special/poem_end_clearall.png
+image 1920,1080
+images/poem_special/poem_special1.png
+image 1200,1080
+images/poem_special/poem_special10.png
+image 1200,1080
+images/poem_special/poem_special11.png
+image 1200,1080
+images/poem_special/poem_special2.png
+image 1200,1080
+images/poem_special/poem_special3.png
+image 1200,1080
+images/poem_special/poem_special4.png
+image 1200,1080
+images/poem_special/poem_special5a.png
+image 1200,1080
+images/poem_special/poem_special5b.png
+image 1200,1080
+images/poem_special/poem_special6.png
+image 1200,1080
+images/poem_special/poem_special7a.png
+image 623,982
+images/poem_special/poem_special7b.png
+image 623,982
+images/poem_special/poem_special8.png
+image 1200,1080
+images/poem_special/poem_special9.png
+image 1200,1080
+images/sayori/1bl.png
+image 1440,1440
+images/sayori/1br.png
+image 1440,1440
+images/sayori/1l.png
+image 1440,1440
+images/sayori/1r.png
+image 1440,1440
+images/sayori/2bl.png
+image 1440,1440
+images/sayori/2br.png
+image 1440,1440
+images/sayori/2l.png
+image 1440,1440
+images/sayori/2r.png
+image 1440,1440
+images/sayori/3a.png
+image 1440,1440
+images/sayori/3b.png
+image 1440,1440
+images/sayori/3c.png
+image 1440,1440
+images/sayori/3d.png
+image 1440,1440
+images/sayori/a.png
+image 1440,1440
+images/sayori/b.png
+image 1440,1440
+images/sayori/c.png
+image 1440,1440
+images/sayori/d.png
+image 1440,1440
+images/sayori/e.png
+image 1440,1440
+images/sayori/end-glitch1.png
+image 651,893
+images/sayori/end-glitch2.png
+image 651,893
+images/sayori/f.png
+image 1440,1440
+images/sayori/g.png
+image 1440,1440
+images/sayori/glitch1.png
+image 894,894
+images/sayori/glitch2.png
+image 894,894
+images/sayori/h.png
+image 1440,1440
+images/sayori/i.png
+image 1440,1440
+images/sayori/j.png
+image 1440,1440
+images/sayori/k.png
+image 1440,1440
+images/sayori/l.png
+image 1440,1440
+images/sayori/m.png
+image 1440,1440
+images/sayori/n.png
+image 1440,1440
+images/sayori/noface1.png
+image 340,315
+images/sayori/noface1b.png
+image 340,315
+images/sayori/noface2.png
+image 270,282
+images/sayori/o.png
+image 1440,1440
+images/sayori/p.png
+image 1440,1440
+images/sayori/q.png
+image 1440,1440
+images/sayori/r.png
+image 1440,1440
+images/sayori/s.png
+image 1440,1440
+images/sayori/t.png
+image 1440,1440
+images/sayori/u.png
+image 1440,1440
+images/sayori/v.png
+image 1440,1440
+images/sayori/w.png
+image 1440,1440
+images/sayori/x.png
+image 1440,1440
+images/sayori/y.png
+image 1440,1440
+images/side_stories/bg/club-sm-intro.png
+image 1920,1080
+images/side_stories/bg/club_morning.png
+image 1920,1080
+images/side_stories/bg/musicroom-old.png
+image 1920,1080
+images/side_stories/bg/musicroom.png
+image 1920,1080
+images/side_stories/bg/stairwell-old.png
+image 1920,1080
+images/side_stories/bg/stairwell.png
+image 1920,1080
+images/side_stories/credits/SF_animated_logo.webm
+video -
+images/side_stories/credits/bgmonika.png
+image 1920,1080
+images/side_stories/credits/bgnatsuki.png
+image 1920,1080
+images/side_stories/credits/bgsayori.png
+image 1920,1080
+images/side_stories/credits/bgyuri.png
+image 1920,1080
+images/side_stories/credits/epilogue.png
+image 1920,1080
+images/side_stories/credits/nm.png
+image 1920,1080
+images/side_stories/credits/ny.png
+image 1920,1080
+images/side_stories/credits/sf_logotype_color.png
+image 960,432
+images/side_stories/credits/sf_logotype_color_ondark.png
+image 960,432
+images/side_stories/credits/sm.png
+image 1920,1080
+images/side_stories/credits/sn.png
+image 1920,1080
+images/side_stories/credits/sy.png
+image 1920,1080
+images/side_stories/credits/teamSalvatoLogo.png
+image 1024,1024
+images/side_stories/credits/teamSalvatoLogo_White.png
+image 1024,1024
+images/side_stories/credits/ym.png
+image 1920,1080
+images/side_stories/menu/frame.png
+image 96,96
+images/side_stories/menu/wipedown.png
+image 1920,1080
+images/side_stories/menu/wipeleft.png
+image 1920,1080
+images/side_stories/menu/wiperight.png
+image 1920,1080
+images/side_stories/nf1/1.png
+image 1440,1440
+images/side_stories/nf1/2.png
+image 1440,1440
+images/side_stories/nf2/1.png
+image 1440,1440
+images/side_stories/nf2/2.png
+image 1440,1440
+images/side_stories/plus_cg/nm/nm_base.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m1.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m2.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m3.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m4.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m5.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m6.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m7.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m8.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_m9.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_ma.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_mb.png
+image 1920,1080
+images/side_stories/plus_cg/nm/nm_n1.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_base.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_n1.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_n2.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_n3.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_n4.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_n5.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_n6.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_n7.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_y1.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_y2.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_y3.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_y4.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_y5.png
+image 1920,1080
+images/side_stories/plus_cg/ny/ny_y6.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_base.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_m1.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_m2.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_m3.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_s1.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_s2.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_s3.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_s4.png
+image 1920,1080
+images/side_stories/plus_cg/sm/sm_s5.png
+image 1920,1080
+images/side_stories/plus_cg/sn/sn_base.png
+image 1920,1080
+images/side_stories/plus_cg/sn/sn_n1.png
+image 1920,1080
+images/side_stories/plus_cg/sn/sn_n2.png
+image 1920,1080
+images/side_stories/plus_cg/sn/sn_n3.png
+image 1920,1080
+images/side_stories/plus_cg/sn/sn_s1.png
+image 1920,1080
+images/side_stories/plus_cg/sn/sn_s2.png
+image 1920,1080
+images/side_stories/plus_cg/sn/sn_s3.png
+image 1920,1080
+images/side_stories/plus_cg/sn/sn_s4.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_base.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_s1.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_s2.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_y1.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_y2.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_y3.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_y4.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_y5.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_y6.png
+image 1920,1080
+images/side_stories/plus_cg/sy/sy_y7.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_base.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_m1.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_m2.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_m3.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_m4.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_paper.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_y1.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_y2.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_y3.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_y4.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_y5.png
+image 1920,1080
+images/side_stories/plus_cg/ym/ym_y6.png
+image 1920,1080
+images/yuri/0a.png
+image 1440,1440
+images/yuri/0b.png
+image 1440,1440
+images/yuri/1bl.png
+image 1440,1440
+images/yuri/1br.png
+image 1440,1440
+images/yuri/1l.png
+image 1440,1440
+images/yuri/1r.png
+image 1440,1440
+images/yuri/2bl.png
+image 1440,1440
+images/yuri/2br.png
+image 1440,1440
+images/yuri/2l.png
+image 1440,1440
+images/yuri/2r.png
+image 1440,1440
+images/yuri/3.png
+image 1440,1440
+images/yuri/3b.png
+image 1440,1440
+images/yuri/a.png
+image 1440,1440
+images/yuri/a2.png
+image 1440,1440
+images/yuri/b.png
+image 1440,1440
+images/yuri/b2.png
+image 1440,1440
+images/yuri/c.png
+image 1440,1440
+images/yuri/c2.png
+image 1440,1440
+images/yuri/cuts.png
+image 1440,1440
+images/yuri/d.png
+image 1440,1440
+images/yuri/d2.png
+image 1440,1440
+images/yuri/dragon1.png
+image 960,960
+images/yuri/dragon2.png
+image 960,960
+images/yuri/e.png
+image 1440,1440
+images/yuri/e2.png
+image 1440,1440
+images/yuri/eyes1.png
+image 1920,1080
+images/yuri/eyes2.png
+image 1920,1080
+images/yuri/eyesfull.png
+image 1440,1440
+images/yuri/f.png
+image 1440,1440
+images/yuri/g.png
+image 1440,1440
+images/yuri/glitch1.png
+image 894,894
+images/yuri/glitch2.png
+image 894,894
+images/yuri/glitch3.png
+image 894,894
+images/yuri/glitch4.png
+image 894,894
+images/yuri/glitch5.png
+image 894,894
+images/yuri/h.png
+image 1440,1440
+images/yuri/hisui.png
+image 960,960
+images/yuri/i.png
+image 1440,1440
+images/yuri/j.png
+image 1440,1440
+images/yuri/k.png
+image 1440,1440
+images/yuri/l.png
+image 1440,1440
+images/yuri/m.png
+image 1440,1440
+images/yuri/n.png
+image 1440,1440
+images/yuri/o.png
+image 1440,1440
+images/yuri/oneeye.png
+image 1440,1440
+images/yuri/oneeye2.png
+image 1440,1440
+images/yuri/p.png
+image 1440,1440
+images/yuri/q.png
+image 1440,1440
+images/yuri/r.png
+image 1440,1440
+images/yuri/s.png
+image 1440,1440
+images/yuri/stab/1.png
+image 1440,1440
+images/yuri/stab/2.png
+image 1440,1440
+images/yuri/stab/3.png
+image 1440,1440
+images/yuri/stab/4.png
+image 1440,1440
+images/yuri/stab/4_wipe.png
+image 1280,720
+images/yuri/stab/5.png
+image 1440,1440
+images/yuri/stab/6-eyes.png
+image 1440,1440
+images/yuri/stab/6-full.png
+image 1440,1440
+images/yuri/stab/6-mask.png
+image 1440,1440
+images/yuri/stab/6.png
+image 1440,1440
+images/yuri/t.png
+image 1440,1440
+images/yuri/u.png
+image 1440,1440
+images/yuri/v.png
+image 1440,1440
+images/yuri/w.png
+image 1440,1440
+images/yuri/y1.png
+image 1440,1440
+images/yuri/y2.png
+image 1440,1440
+images/yuri/y3.png
+image 1440,1440
+images/yuri/y4.png
+image 1440,1440
+images/yuri/y5.png
+image 1440,1440
+images/yuri/y6.png
+image 1440,1440
+images/yuri/y7.png
+image 1440,1440
+images/yuri/za.png
+image 264,279
+images/yuri/zb.png
+image 264,279
+images/yuri/zc.png
+image 264,279
+images/yuri/zd.png
+image 264,279
+ios-launchImage.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/bsod.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_end.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_end_clearall_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_end_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special1.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special10.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special10_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special11.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special11_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special2.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special2_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special3.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special3_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special4.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special4_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special6.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special6_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special8.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special8_th.png
+image 257,145
+tl/chinese_simplified/images/poem_special/poem_special9.png
+image 1920,1080
+tl/chinese_simplified/images/poem_special/poem_special9_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/bsod.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_end.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_end_clearall_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_end_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special1.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special10.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special10_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special11.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special11_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special2.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special2_th.png
+image 192,108
+tl/chinese_traditional/images/poem_special/poem_special3.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special3_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special4.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special4_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special6.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special6_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special8.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special8_th.png
+image 257,145
+tl/chinese_traditional/images/poem_special/poem_special9.png
+image 1920,1080
+tl/chinese_traditional/images/poem_special/poem_special9_th.png
+image 257,145
+tl/french/images/poem_special/bsod.png
+image 1920,1080
+tl/french/images/poem_special/poem_end.png
+image 1920,1080
+tl/french/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/french/images/poem_special/poem_end_clearall_th.png
+image 192,108
+tl/french/images/poem_special/poem_special1.png
+image 1920,1080
+tl/french/images/poem_special/poem_special10.png
+image 1920,1080
+tl/french/images/poem_special/poem_special10_th.png
+image 257,145
+tl/french/images/poem_special/poem_special11_fr.png
+image 1920,1080
+tl/french/images/poem_special/poem_special11_th.png
+image 257,145
+tl/french/images/poem_special/poem_special2.png
+image 1920,1080
+tl/french/images/poem_special/poem_special2_th.png
+image 257,145
+tl/french/images/poem_special/poem_special3.png
+image 1920,1080
+tl/french/images/poem_special/poem_special3_th.png
+image 257,145
+tl/french/images/poem_special/poem_special4.png
+image 1920,1080
+tl/french/images/poem_special/poem_special4_th.png
+image 257,145
+tl/french/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/french/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/french/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/french/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/french/images/poem_special/poem_special6.png
+image 1920,1080
+tl/french/images/poem_special/poem_special6_th.png
+image 257,145
+tl/french/images/poem_special/poem_special8.png
+image 1920,1080
+tl/french/images/poem_special/poem_special8_th.png
+image 257,145
+tl/french/images/poem_special/poem_special9.png
+image 1920,1080
+tl/french/images/poem_special/poem_special9_th.png
+image 257,145
+tl/german/images/poem_special/bsod.png
+image 1920,1080
+tl/german/images/poem_special/poem_end.png
+image 1920,1080
+tl/german/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/german/images/poem_special/poem_end_clearall_th.png
+image 192,108
+tl/german/images/poem_special/poem_special1.png
+image 1920,1080
+tl/german/images/poem_special/poem_special10.png
+image 1920,1080
+tl/german/images/poem_special/poem_special10_th.png
+image 257,145
+tl/german/images/poem_special/poem_special11.png
+image 1920,1080
+tl/german/images/poem_special/poem_special11_th.png
+image 257,145
+tl/german/images/poem_special/poem_special2.png
+image 1920,1080
+tl/german/images/poem_special/poem_special2_th.png
+image 257,145
+tl/german/images/poem_special/poem_special3.png
+image 1920,1080
+tl/german/images/poem_special/poem_special3_th.png
+image 257,145
+tl/german/images/poem_special/poem_special4.png
+image 1920,1080
+tl/german/images/poem_special/poem_special4_th.png
+image 257,145
+tl/german/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/german/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/german/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/german/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/german/images/poem_special/poem_special6.png
+image 1920,1080
+tl/german/images/poem_special/poem_special6_th.png
+image 257,145
+tl/german/images/poem_special/poem_special8.png
+image 1920,1080
+tl/german/images/poem_special/poem_special8_th.png
+image 257,145
+tl/german/images/poem_special/poem_special9.png
+image 1920,1080
+tl/german/images/poem_special/poem_special9_th.png
+image 257,145
+tl/italian/images/poem_special/bsod.png
+image 1920,1080
+tl/italian/images/poem_special/poem_end.png
+image 1920,1080
+tl/italian/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/italian/images/poem_special/poem_end_clearall_th.png
+image 192,108
+tl/italian/images/poem_special/poem_special1.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special10.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special10_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special11.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special11_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special2.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special2_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special3.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special3_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special4.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special4_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special6.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special6_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special8.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special8_th.png
+image 257,145
+tl/italian/images/poem_special/poem_special9.png
+image 1920,1080
+tl/italian/images/poem_special/poem_special9_th.png
+image 257,145
+tl/japanese/images/poem_special/bsod.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_end.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_end_clearall_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special1.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special10.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special10_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special11.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special11_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special2.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special2_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special3.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special3_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special4.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special4_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special6.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special6_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special8.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special8_th.png
+image 257,145
+tl/japanese/images/poem_special/poem_special9.png
+image 1920,1080
+tl/japanese/images/poem_special/poem_special9_th.png
+image 257,145
+tl/korean/images/poem_special/bsod.png
+image 1920,1080
+tl/korean/images/poem_special/poem_end.png
+image 1920,1080
+tl/korean/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/korean/images/poem_special/poem_end_clearall_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special1.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special10.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special10_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special11.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special11_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special2.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special2_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special3.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special3_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special4.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special4_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special6.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special6_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special8.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special8_th.png
+image 257,145
+tl/korean/images/poem_special/poem_special9.png
+image 1920,1080
+tl/korean/images/poem_special/poem_special9_th.png
+image 257,145
+tl/portuguese/images/poem_special/bsod.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_end.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_end_clearall_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special1.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special10.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special10_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special11.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special11_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special2.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special2_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special3.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special3_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special4.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special4_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special6.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special6_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special8.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special8_th.png
+image 257,145
+tl/portuguese/images/poem_special/poem_special9.png
+image 1920,1080
+tl/portuguese/images/poem_special/poem_special9_th.png
+image 257,145
+tl/russian/images/poem_special/bsod.png
+image 1920,1080
+tl/russian/images/poem_special/poem_end.png
+image 1920,1080
+tl/russian/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/russian/images/poem_special/poem_end_clearall_th.png
+image 192,108
+tl/russian/images/poem_special/poem_special1.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special10.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special10_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special11.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special11_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special2.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special2_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special3.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special3_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special4.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special4_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special6.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special6_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special8.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special8_th.png
+image 257,145
+tl/russian/images/poem_special/poem_special9.png
+image 1920,1080
+tl/russian/images/poem_special/poem_special9_th.png
+image 257,145
+tl/spanish/images/poem_special/bsod.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_end.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_end_clearall_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special1.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special10.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special10_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special11.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special11_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special2.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special2_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special3.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special3_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special4.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special4_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special6.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special6_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special8.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special8_th.png
+image 257,145
+tl/spanish/images/poem_special/poem_special9.png
+image 1920,1080
+tl/spanish/images/poem_special/poem_special9_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/bsod.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_end.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_end_clearall.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_end_clearall_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special1.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special10.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special10_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special11.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special11_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special2.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special2_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special3.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special3_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special4.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special4_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special5a.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special5a_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special5b.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special5b_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special6.png
+image 1920,1080
+tl/spanish_latin_america/images/poem_special/poem_special6_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special8_th.png
+image 257,145
+tl/spanish_latin_america/images/poem_special/poem_special9_th.png
+image 257,145

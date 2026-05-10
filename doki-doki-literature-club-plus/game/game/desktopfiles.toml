@@ -1,0 +1,254 @@
+# CHARACTERS
+#   monika.chr
+["monika.chr"]
+virtual_path = "characters"
+utc_type = "ddlc"
+size = 137604
+real_path = "characters/monika.chr"
+
+#   natsuki.chr
+["natsuki.chr"]
+virtual_path = "characters"
+utc_type = "ddlc"
+size = 44793
+real_path = "characters/natsuki.chr"
+
+#   sayori.chr
+["sayori.chr"]
+virtual_path = "characters"
+utc_type = "ddlc"
+size = 59621
+real_path = "characters/sayori.chr"
+
+#   yuri.chr
+["yuri.chr"]
+virtual_path = "characters"
+utc_type = "ddlc"
+size = 30340
+real_path = "characters/yuri.chr"
+
+# GAME
+#   audio.rpa
+["audio.rpa"]
+virtual_path = "game"
+utc_type = "ddlc"
+size = 64000000
+
+#   fonts.rpa
+["fonts.rpa"]
+virtual_path = "game"
+utc_type = "ddlc"
+size = 1789000
+
+#   images.rpa
+["images.rpa"]
+virtual_path = "game"
+utc_type = "ddlc"
+size = 131000000
+
+#   poemwords.txt
+["poemwords.txt"]
+virtual_path = "game"
+utc_type = "ddlc"
+size = 3489 
+txt_file = "poemwords.txt"
+
+#   scripts.rpa
+["scripts.rpa"]
+virtual_path = "game"
+utc_type = "ddlc"
+size = 2683000
+
+# INTERNAL
+#   note - insecure directory.txt
+["note - insecure directory.txt"]
+virtual_path = "internal"
+utc_type = "vm"
+size = 427
+txt_file = "plus-desktop-files/note - insecure directory.txt"
+
+# INTERNAL (Numbered Nested Folders)
+#   Meeting notes 3.txt
+["Meeting notes 3.txt"]
+virtual_path = "internal/0/3/0"
+utc_type = "vm"
+size = 438
+txt_file = "plus-desktop-files/Meeting notes 3.txt"
+timegate_hour = 1
+timegate_minute = 58
+
+#   Track 06 name ideas.txt
+["Track 06 name ideas.txt"]
+virtual_path = "internal/1/2/3"
+utc_type = "vm"
+size = 302
+txt_file = "plus-desktop-files/Track 06 name ideas.txt"
+timegate_hour = 4
+timegate_minute = 30
+
+#   Meeting notes 2.txt
+["Meeting notes 2.txt"]
+virtual_path = "internal/1/3/0"
+utc_type = "vm"
+size = 818
+txt_file = "plus-desktop-files/Meeting notes 2.txt"
+timegate_hour = 9
+timegate_minute = 15
+
+#   project plan.txt
+["project plan.txt"]
+virtual_path = "internal/2/2/1"
+utc_type = "vm"
+size = 1375
+txt_file = "plus-desktop-files/project plan.txt"
+timegate_hour = 2
+timegate_minute = 40
+
+#   MES.txt
+["MES.txt"]
+virtual_path = "internal/3/4/4"
+utc_type = "vm"
+size = 1001
+txt_file = "plus-desktop-files/MES.txt"
+timegate_hour = 8
+timegate_minute = 33
+
+#   DDLC.txt
+["DDLC.txt"]
+virtual_path = "internal/4/0/4"
+utc_type = "vm"
+size = 1621
+txt_file = "plus-desktop-files/DDLC.txt"
+timegate_hour = 0
+timegate_minute = 55
+
+#   14.txt
+["14.txt"]
+virtual_path = "internal/5/0/1"
+utc_type = "vm"
+size = 1716
+txt_file = "plus-desktop-files/14.txt"
+timegate_hour = 2
+timegate_minute = 14
+
+# INTERNAL/BACKUP
+#   Meeting notes 1.txt
+["Meeting notes 1.txt"]
+virtual_path = "internal/backup"
+utc_type = "vm"
+size = 582
+txt_file = "plus-desktop-files/Meeting notes 1.txt"
+
+#   test.txt
+["test.txt"]
+virtual_path = "internal/backup"
+utc_type = "vm"
+size = 51
+txt_file = "plus-desktop-files/test.txt"
+
+# INTERNAL/BACKUP/SYSTEM
+#   CLI
+["CLI"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 3020
+
+#   DiskCopy
+["DiskCopy"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 16000
+
+#   FastMemFirst
+["FastMemFirst"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 976
+
+#   FixFonts
+["FixFonts"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 1992
+
+#   Format
+["Format"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 13000
+
+#   InitPrinter
+["InitPrinter"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 892
+
+#   MergeMem
+["MergeMem"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 2524
+
+#   NoFastMem
+["NoFastMem"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 1792
+
+#   SetMap
+["SetMap"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 4060
+
+#   towerkeys (towerkeys can be opened like a text file despite not having a file extension)
+["towerkeys"]
+virtual_path = "internal/backup/System"
+utc_type = "vm"
+size = 226
+txt_file = "plus-desktop-files/towerkeys.txt"
+
+# (ROOT)
+#   attributions.txt
+["attributions.txt"]
+virtual_path = ""
+utc_type = "vm"
+size = 1922
+txt_file = "plus-desktop-files/attributions.txt"
+
+#   CAN YOU HEAR ME.txt
+["CAN YOU HEAR ME.txt"]
+virtual_path = ""
+utc_type = "real"
+size = 706
+real_path = "game/CAN YOU HEAR ME.txt"
+txt_file = "CAN YOU HEAR ME.txt"
+
+#   hxppy thxughts.png
+["hxppy thxughts.png"]
+virtual_path = ""
+utc_type = "real"
+size = 337493
+real_path = "hxppy thxughts.png"
+img_file = "virtual_file_hxppy_thxughts"
+
+#   iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt
+["iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt"]
+virtual_path = ""
+utc_type = "real"
+size = 285
+real_path = "game/iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt"
+txt_file = "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.txt"
+
+#   reset.sh
+["reset.sh"]
+virtual_path = ""
+utc_type = "vm"
+size = 1692
+
+#   traceback.txt
+["traceback.txt"]
+virtual_path = ""
+utc_type = "real"
+size = 794
+real_path = "traceback.txt"

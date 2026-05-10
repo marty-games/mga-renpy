@@ -1,0 +1,363 @@
+[game_title]
+title = "DOKI DOKI\nLiterature Club Plus!"
+name = ""
+
+[written_and_directed]
+title = "Written and Directed by"
+name = "DAN SALVATO"
+
+[TS_development_title]
+title = "Team Salvato Development"
+name = ""
+
+[TS_development_art_1]
+title = "DDLC Character & CG Art\nDDLC Plus Key Art"
+name = "SATCHELY"
+
+[TS_development_art_2]
+title = "DDLC Plus CG Art"
+name = "SQUCHAN\nLUCIDSKY"
+
+[TS_development_art_3]
+title = "Scenery & Background Art"
+name = "VELINQUENT"
+
+[TS_development_programming]
+title = "DDLC Plus Content Programming"
+name = "JOSEPH BOYD"
+
+[TS_development_UI_design]
+title = "DDLC Plus UI Design"
+name = "ROBERT SIMMONS\nSTEEVIN LOVE"
+
+[TS_development_music_1]
+title = "DDLC Music"
+name = "DAN SALVATO"
+
+[TS_development_music_2]
+title = "DDLC Plus Music"
+name = "VARRIEN"
+
+[TS_development_music_3]
+title = "Guest Music"
+name = "JASON HAYES\nAZURIA SKY"
+
+[TS_production_title]
+title = "Team Salvato Production"
+name = ""
+
+[TS_production_creative_director]
+title = "Creative Director"
+name = "ALECIA BARDACHINO"
+
+[TS_production_art_consult]
+title = "Art Consultant and Design Support"
+name = "STEEVIN LOVE"
+
+[TS_production_project_management]
+title = "Project Management"
+name = "CYNTHIA RODRIGUEZ"
+
+[TS_production_community_management]
+title = "Community Management"
+name = "JOSEPH BOYD"
+
+[TS_production_image_gallery_l]
+title = "Image Gallery Additional Art"
+name = "SATCHELY\nKLAEIA"
+
+[TS_production_image_gallery_r]
+title = "Image Gallery Additional Art"
+name = "DAVID EVELYN\nKAGEFUMI"
+
+[TS_production_promo_art]
+title = "Promotional Art"
+name = "SATCHELY\nLUCIDSKY\nSTEEVIN LOVE"
+
+[SF_title]
+title = "Serenity Forge"
+name = ""
+
+[SF_executive_director]
+title = "Executive Director"
+name = "ZHENGHUA YANG (Z)"
+
+[SF_publishing_director]
+title = "Publishing Director"
+name = "FRIGYES RACZ"
+
+[SF_lead_producer]
+title = "Lead Producer"
+name = "TIM GARRIS"
+
+[SF_production_manager]
+title = "Production Manager"
+name = "KERSTI FORMAN"
+
+[SF_lead_physical_pub_producer]
+title = "Physical Publishing Manager"
+name = "ERIK KLEIN"
+
+[SF_lead_publishing_artist]
+title = "Lead Publishing Artist"
+name = "YU YING ONG"
+
+[SF_graphic_designers]
+title = "Graphic Designer"
+name = "SATCHELY\nABBY STOWERS\nLATONYA WHITE\nSIERRA HARRIS\nZHENGHUA YANG (Z)"
+
+[SF_product_designers]
+title = "Product Designer"
+name = "SATCHELY\nABBY STOWERS\nBRIDGET OLSON\nSIERRA HARRIS\nZHENGHUA YANG (Z)"
+
+[SF_lead_publishing_tech]
+title = "Technical Manager"
+name = "ZACH PHILLIPS"
+
+[SF_porting_engineer]
+title = "Porting Engineer"
+name = "BOAN \"DIAN\" DING\nADAM FEDERBUSCH\nKEVIN ADAMS"
+
+[SF_marketing_director]
+title = "Marketing Director"
+name = "ZHENGHUA YANG (Z)"
+
+[SF_marketing_manager]
+title = "Marketing Manager"
+name = "ZSÓFI HÁMORI-GECSER"
+
+[SF_publishing_producers]
+title = "Publishing Producer"
+name = "ALEX BROWN\nMÁTÉ GECSER"
+
+[SF_media_director]
+title = "Media Director"
+name = "ZHENGHUA YANG (Z)"
+
+[SF_marketing_associate]
+title = "Marketing Associate"
+name = "LUKE RICA\nSEOHYEON JEONG"
+
+[SF_PR]
+title = "Public Relations"
+name = "SEOHYEON JEONG"
+
+[SF_website_development]
+title = "Website Development"
+name = "D. AELYN BOARD\nLUKE RICA"
+
+[SF_community_manager]
+title = "Community Manager"
+name = "CHRIS SOUZA\nSARA MISAJLOVSKA"
+
+[SF_community_moderator]
+title = "Community Moderator"
+name = "EUGENIA MICHAEL FAHEY\nIAN VANORMELINGEN\nSHIN SUNSHINE\nTUCKER LITTLE"
+
+[SF_QA_lead]
+title = "Quality Assurance Lead"
+name = "CHRIS SOUZA"
+
+[SF_QA]
+title = "Quality Assurance"
+name = "ERICK GONZALEZ\nELIZA PRZYGODA\nMATTIE YANG"
+
+[SF_rating_associate]
+title = "Ratings Associate"
+name = "SEOHYEON JEONG"
+
+[SF_business_director]
+title = "Business Director"
+name = "KEVIN ZHANG"
+
+[SF_sales_finance_director]
+title = "Finance & Operations Manager"
+name = "CHRISTINE GALLAGHER\nRYAN TAGAWA"
+
+[SF_legal]
+title = "Legal"
+name = "BRANDON J. HUFFMAN\nCONNOR RICHARDS"
+
+[SF_additional_support_l]
+title = "Additional Support"
+name = "ERIC GROSSMAN\nKRIST MAI\nMATT RADER-SCHEITZ\nSOPHIE GRAY"
+
+[SF_additional_support_r]
+title = "Additional Support"
+name = "COLE MCNAMEE\nHANDLEY SHELTON\nOWEN MCCUBBIN"
+
+[Localization_title]
+title = "Localization"
+name = ""
+
+[RL_title]
+title = "RIOTLOC"
+name = ""
+
+[RL_project_management]
+title = "Project Management"
+name = "NATALIA NESTEROVA, RAMÓN MÉNDEZ,\nVLADIMIR KONOPLITSKY"
+
+[RL_french]
+title = "French"
+name = "OPHÉLIE COLIN, GUILLAUME PALLETIER,\nSTÉPHANE TRANQUILLE"
+
+[RL_german]
+title = "German"
+name = "ROLAND AUSTINAT, LINDA GESCHWANDTNER,\nHEINRICH LENHARDT"
+
+[RL_italian]
+title = "Italian"
+name = "ALAIN DELLEPIANE, LORENZO BERTOLUCCI,\nVIRIGINIA PETRARCA, MATTEO SCARABELLI"
+
+[RL_japanese]
+title = "Japanese"
+name = "NANA ITOH, TOMOKO KONO, YUMI NIITANI"
+
+[RL_korean]
+title = "Korean"
+name = "HYANG YUNG,YOOSHIN YANG"
+
+[RL_portuguese]
+title = "Portuguese"
+name = "THIAGO ARAUJO, SÁVIO BOAVENTURA, THOMAS MELO\nARIEL OLIVEIRA, THAIS BRESOLIN, GREG STRIDER"
+
+[RL_russian]
+title = "Russian"
+name = "MARIA YUNGER, NATALIA BAULINA, NIKITA SEMENOV"
+
+[RL_spanish]
+title = "Spanish"
+name = "RAMÓN MÉNDEZ, ALBA CALVO, JUAN RAMÓN ACEDO\nEMILIO ROS, IAGO ÁLVAREZ"
+
+[RL_chinese]
+title = "Traditional & Simplified Chinese"
+name = "CYNTHIA LIN, KAKIHARA MASO, YILING TANG,\nALLISON KUO"
+
+[Fan_translation_support_title]
+title = "Fan Translation Support"
+name = ""
+
+[Fan_translation_simp_chinese]
+title = "Simplified Chinese"
+name = "DB, Javelin&Tea, TBGN, Pizza Hime"
+
+[Fan_translation_trad_chinese]
+title = "Traditional Chinese"
+name = "SIAN-WUN KUO (OT-YUZURU), YU-TING WU (ANGEL_FUBUKI)"
+
+[Fan_translation_japanese]
+title = "Japanese"
+name = "DDLC翻訳部"
+
+[Altagram_title]
+title = "Additional Localization"
+name = ""
+
+[Altagram_production_title]
+title = "ALTAGRAM GROUP"
+name = ""
+
+[Altagram_production_PM]
+title = "Localization Project Manager"
+name = "Mathilde Gribaudi"
+
+[Altagram_production_SLE]
+title = "Senior Localization Engineer"
+name = "Wolfgang Hoffmann-Schoenborn"
+
+[Altagram_production_LE]
+title = "Localization Engineer"
+name = "Antonio Manuel Beleño Rodríguez"
+
+[Altagram_french]
+title = "French Team"
+name = "Jean-Yves Bleuyard\nLéa Veutin"
+
+[Altagram_german]
+title = "German Team"
+name = "Sandra Kohl\nStephan Grabowski"
+
+[Altagram_portugese]
+title = "Portuguese Brazil Team"
+name = "Pedro Fortunato\nTiago C. Lazzari"
+
+[Altagram_spanishLA]
+title = "Spanish LATAM Team"
+name = "Candela dos Ramos\nJoaquín Herrero"
+
+[Altagram_spanishSP]
+title = "Spanish Spain Team"
+name = "Mar Campayo Chaparra\nPedro José Sepúlveda"
+
+[Altagram_italian]
+title = "Italian Team"
+name = "Federico Castellano\nSara Baroni"
+
+[Altagram_japanese]
+title = "Japanese Team"
+name = "Kohtaroh \"Yogi\" Yamada"
+
+[Altagram_korean]
+title = "Korean Team"
+name = "Eojin Jang\nSiyoon Ji"
+
+[Altagram_chineseSM]
+title = "Chinese (Simplified) Team"
+name = "Duo Yang\nXuan Pan"
+
+[Altagram_chineseTR]
+title = "Chinese (Traditional) Team"
+name = "OURS Localization Group"
+
+[Altagram_project_manager]
+title = "Project Manager Team Lead"
+name = "Jonathan Aplin"
+
+[Altagram_linguistic_lead]
+title = "Linguistic Team Lead"
+name = "Dylan L. Martin"
+
+[Altagram_partnership_manager]
+title = "Partnership Manager"
+name = "Jared Swift"
+
+[Altagram_cco]
+title = "CCO"
+name = "Karolina Drapala"
+
+[Altagram_coo]
+title = "COO"
+name = "Balint Acsay"
+
+[Altagram_ceo]
+title = "CEO"
+name = "Marie Amigues"
+
+[Creative_artists_agency]
+title = "Creative Artists Agency"
+name = "ALISON SLUITER\nDEREK DOUGLAS"
+
+[Special_thanks_l]
+title = "Special Thanks"
+name = "MASHA GUTIN\nZOE HOBSON\nKYLE BILLINGS\nBRIAN BENINCASA\nMICHAEL YUM\nTIM PIVNICNY\nTHOMAS CASHMAN"
+
+[Special_thanks_r]
+title = "Special Thanks"
+name = "DARIN ITO\nUZUKI TACHIBANA\nMIKE MITCHELL\nJUSTIN SHAKE\nZOE, SHIRLEY, & EZRA KLEIN\nBRIAN, ETHAN, & NOAH GALLAGHER\nMATTIE, SENECA, & FARADAY YANG"
+
+[Special_thanks_mobile]
+title = "Special Thanks"
+name = "THOMAS CASHMAN"
+
+[Extra_special_thanks]
+title = "Extra Special Thanks"
+name = "Monika\n[persistent.playername]"
+
+[End_thanks]
+title = "Thank you, dear player,\nfor enjoying our story of friendship and literature."
+name = ""
+
+[End_love]
+title = "Made with love by..."
+name = ""
